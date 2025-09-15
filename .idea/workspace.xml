@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dd40408-d1a1-4b6c-94e2-739b142a4ab2" name="Changes" comment="" />
+    <list default="true" id="0dd40408-d1a1-4b6c-94e2-739b142a4ab2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/task18/task18.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task23/task23.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task9/task9.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,9 +59,11 @@
     "Go Build.go build L1/task14.executor": "Run",
     "Go Build.go build L1/task16.executor": "Run",
     "Go Build.go build L1/task17.executor": "Run",
+    "Go Build.go build L1/task18.executor": "Run",
     "Go Build.go build L1/task19.executor": "Run",
     "Go Build.go build L1/task2.executor": "Run",
     "Go Build.go build L1/task22.executor": "Run",
+    "Go Build.go build L1/task23.executor": "Run",
     "Go Build.go build L1/task24.executor": "Run",
     "Go Build.go build L1/task25.executor": "Run",
     "Go Build.go build L1/task26.executor": "Run",
@@ -66,6 +73,7 @@
     "Go Build.go build L1/task6.executor": "Run",
     "Go Build.go build L1/task7.executor": "Run",
     "Go Build.go build L1/task8.executor": "Run",
+    "Go Build.go build L1/task9.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.GoLinterPluginOnboarding": "true",
     "RunOnceActivity.GoLinterPluginStorageMigration": "true",
@@ -98,32 +106,23 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build L1/task8">
-    <configuration name="go build L1/task10" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build L1/task23">
+    <configuration name="go build L1/task18" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="L1" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="L1/task10" />
+      <package value="L1/task18" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/task10/task10.go" />
+      <filePath value="$PROJECT_DIR$/task18/task18.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build L1/task25" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build L1/task23" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="L1" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="L1/task25" />
+      <package value="L1/task23" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/task25/task25.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build L1/task6" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="L1" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <package value="L1/task6" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/task6/task6.go" />
+      <filePath value="$PROJECT_DIR$/task23/task23.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build L1/task7" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -144,13 +143,22 @@
       <filePath value="$PROJECT_DIR$/task8/task8.go" />
       <method v="2" />
     </configuration>
+    <configuration name="go build L1/task9" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="L1" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="L1/task9" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/task9/task9.go" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build L1/task23" />
+        <item itemvalue="Go Build.go build L1/task18" />
+        <item itemvalue="Go Build.go build L1/task9" />
         <item itemvalue="Go Build.go build L1/task8" />
         <item itemvalue="Go Build.go build L1/task7" />
-        <item itemvalue="Go Build.go build L1/task6" />
-        <item itemvalue="Go Build.go build L1/task25" />
-        <item itemvalue="Go Build.go build L1/task10" />
       </list>
     </recent_temporary>
   </component>
